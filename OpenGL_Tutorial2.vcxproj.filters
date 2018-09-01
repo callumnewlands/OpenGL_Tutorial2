@@ -17,6 +17,8 @@
   <ItemGroup>
     <None Include="glfw3.dll" />
     <None Include="glew32.dll" />
+    <None Include="vertexShader.vrt" />
+    <None Include="fragmentShader.frg" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
